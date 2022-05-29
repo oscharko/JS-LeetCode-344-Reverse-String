@@ -18,4 +18,7 @@ You must do this by modifying the input array in-place with O(1) extra memory.
 ## final Solution
 [LeetCode](https://leetcode.com/submissions/detail/709690611/)
 
+## second solution with while loop
+[LeetCode](https://leetcode.com/submissions/detail/709715934/)
+
 [![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-344-Reverse-String)](https://replit.com/@oscharko/JS-LeetCode-344-Reverse-String)
